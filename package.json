@@ -95,7 +95,7 @@
     "pdfkit": "^0.10.0",
     "pg": "^7.11.0",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^5.21.2",
+    "sequelize": "^6.19.1",
     "sequelize-mock": "^0.10.2",
     "soap": "^0.30.0",
     "tmp": "^0.1.0",
